@@ -126,7 +126,7 @@ export function DashboardSidebar() {
     },
     {
       title: "Help and support",
-      url: "mailto:help@resonance.com",
+      url: "mailto:imt_2023042+HCI_project@iiitm.ac.in.com",
       icon: Headphones,
     },
   ];
@@ -138,7 +138,7 @@ export function DashboardSidebar() {
         className="flex items-center gap-2 pl-1 group-data-[collapsible=icon]:justify-center group-data-[collapsible=icon]:pl-0">
           <Image
             src="/logo.svg"
-            alt="Resonance"
+            alt="TTS-AI"
             width={24}
             height={24}
             className="rounded-sm"
